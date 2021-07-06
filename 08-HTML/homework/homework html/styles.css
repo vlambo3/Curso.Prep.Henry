@@ -1,0 +1,31 @@
+h1 {
+    color: pink;
+}
+img {
+    width: 400px
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: grey;
+    padding: 50px;
+    border-width: 5px;
+    border-color:black;
+    border-style: dashed;
+    text-align: center;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+body {
+    background: url(https://media.istockphoto.com/photos/aiguille-du-midi-3842-m-french-alps-picture-id481850282?b=1&k=6&m=481850282&s=170667a&w=0&h=hsdCpFfz6lP3FKnsS1AptyrKPrrjsW5j8Z1Dt0MBdpM=) no-repeat;
+    background-size: 100% 100%;    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    text-align: center;
+}
